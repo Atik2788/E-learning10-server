@@ -60,5 +60,16 @@
         "url": "https://i.ibb.co/9ws6Gcb/automotive-modeling-cinema-4d-310-v1.jpg.jpg",
         "details": "Learn how to model and render vehicles using Cinema 4D and V-Ray 5."
     },
-
+    {
+        "id": 6,
+        "name": "Unreal Engine 5",
+        "title": "Unreal Engine 5 Blueprints - First Person Shooter (FPS)",
+        "ratings": "4.7",
+        "students": "4,923 students",
+        "author": "Created by Stephen Uibarri",
+        "language": "English",
+        "price": "$84.99",
+        "url": "https://i.ibb.co/9ws6Gcb/automotive-modeling-cinema-4d-310-v1.jpg.jpg",
+        "details": "Learn how to make an FPS using Unreal Blueprints. The entire course uses Unreal Engine 5."
+    }
 ]

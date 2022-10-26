@@ -22,11 +22,6 @@ app.get('/courses-details/:id', (req, res) => {
     res.send(courses_id)
 })
 
-
-
-
-
-
 app.listen(port, () =>{
     console.log('server running on port 5000')
 })

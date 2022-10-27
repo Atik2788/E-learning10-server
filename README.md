@@ -16,7 +16,7 @@ In the project directory, you can run:
 * app.use(cors())
 
 
-When you want to deploy vercel, just wright
+When you want to deploy vercel, just write
 ### vercel
 
 # Here some steps.

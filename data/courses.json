@@ -7,7 +7,6 @@
         "students": "25,588 students",
         "author": "Created by: Grant Abbit",
         "language": "English",
-        "video": "https://www.youtube.com/watch?v=0usc_HTnUBQ&ab_channel=EnhancedSight",
         "price": "$15",
         "url": "https://i.ibb.co/txGqBXc/maxresdefault-1.jpg",
         "details": "Use Blender to Create Beautiful 3D models for Video Games, 3D Printing & More. Beginners Level Course"
@@ -66,11 +65,83 @@
         "name": "Unreal Engine 5",
         "title": "Unreal Engine 5 Blueprints - First Person Shooter (FPS)",
         "ratings": "4.7",
-        "students": "4,923 students",
+        "students": "4923 students",
         "author": "Created by: Stephen Uibarri",
         "language": "English",
         "price": "$84.99",
         "url": "https://i.ibb.co/Lx95yXq/halo-infinite-certain-affinity-fps-unreal-5.webp.jpg",
         "details": "Learn how to make an FPS using Unreal Blueprints. The entire course uses Unreal Engine 5."
+    },
+    {
+        "id": 7,
+        "name": "Character Creation",
+        "title": "Blender 2.8 Character Creation",
+        "ratings": "4.8",
+        "students": "5676 students",
+        "author": "Created by: Darrin Lile",
+        "language": "English",
+        "price": "$24.99",
+        "url": "https://i.ibb.co/56BC11d/e6b5d06971c28200d3890508fcc130a9.jpg",
+        "details": "Learn to use Blender 2.8 to create your own 3D characters."
+    },
+    {
+        "id": 8,
+        "name": "Maya for Beginners",
+        "title": "Maya for Beginners: Complete 3D Animation Fundamentals",
+        "ratings": "4.7",
+        "students": "2099 students",
+        "author": "Created by: Opi Chaggar",
+        "language": "English",
+        "price": "$84.99",
+        "url": "https://i.ibb.co/MPTQ8Pd/Maya-3-D-Animation.jpg",
+        "details": "Complete training with practical exercises and comprehensive expert advice to mastering animation fundamentals."
+    },
+    {
+        "id": 9,
+        "name": "Car Chase Short Film",
+        "title": "Make a Cinematic Car Chase Short Film Animation in Blender",
+        "ratings": "4.6",
+        "students": "2696 students",
+        "author": "Created by: Opi Chaggar",
+        "language": "English",
+        "price": "$19.99",
+        "url": "https://i.ibb.co/RSjvLL7/wp6082493.webp",
+        "details": "Learn Animation, 3D Modeling, Rig Texture, Render Car Animations in Blender and Build Your Game in Unreal Engine & Unity."
+    },
+    {
+        "id": 10,
+        "name": "Jump in Autodesk Maya",
+        "title": "Animate a professional looking jump in Autodesk Maya",
+        "ratings": "4.8",
+        "students": "235 students",
+        "author": "Created by: Amedeo Beretta",
+        "language": "English",
+        "price": "$39.99",
+        "url": "https://i.ibb.co/LCXxwTD/maxresdefault-2.jpg",
+        "details": "Learn professional 3D animation workflows by animating and delivering a high quality human jump in Autodesk Maya."
+    },
+    {
+        "id": 11,
+        "name": "Smoke & Fire Simulation",
+        "title": "Animate a Rocket Launch: Smoke & Fire Simulation in Blender",
+        "ratings": "4.5",
+        "students": "1194 students",
+        "author": "Created by: Abdelillah Hamdani",
+        "language": "English",
+        "price": "$19.99",
+        "url": "https://i.ibb.co/bFd9Yrp/astronaut-travels-space-sitting-flying-missile-3d-illustration-151689-444.webp",
+        "details": "Learn 3D Animation, Hard Surface Modeling, Realistic Texturing, Fluid Simulation in Blender"
+    },
+    {
+        "id": 12,
+        "name": "Sculpting In Blender",
+        "title": "Introduction To 3D Sculpting In Blender - Model A Dragon",
+        "ratings": "4.8",
+        "students": "2465 students",
+        "author": "Created by: GameDev.tv Team",
+        "language": "English",
+        "price": "$84.99",
+        "url": "https://i.ibb.co/KX4zyry/Introduction-To-3-D-Sculpting-In-Blender-Model-A-Dragon.png",
+        "details": "Every step of creating your own Dragon in Blender; blocking, modelling, sculpting, rigging, painting, lighting."
     }
 ]
